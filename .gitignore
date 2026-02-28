@@ -1,0 +1,5 @@
+user-management-app/backend/node_modules
+user-management-app/frontend/node_modules
+user-management-app/backend/dist
+user-management-app/frontend/dist
+
